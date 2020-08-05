@@ -1,5 +1,5 @@
 name: WakaTime stat update in README.md
-
+# Please visit https://github.com/avinal/Profile-Readme-WakaTime to setup your own action
 on:
   schedule:
     # Runs at 12 am UTC
